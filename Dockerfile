@@ -3,7 +3,7 @@
 #
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
-FROM ghcr.io/juratherm/baseimage:5.6.0-8.1-fpm
+FROM ghcr.io/juratherm/baseimage:5.6.1-8.2-fpm
 
 COPY phalcon-dev-entrypoint /usr/local/bin/phalcon-dev-entrypoint
 
